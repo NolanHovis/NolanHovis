@@ -1,7 +1,7 @@
 
 <h1 style="border: none"> NOLAN HOVIS </h1>
 
-<img align="right" src="./img/Astronaut.png" width="400" />
+<img align="right" src="./img/Astronaut.png" width="400" style="transform: rotate(-10deg);" />
 
 - 🔭 I’m currently working in Ruby on Rails and Angular
 - 😄 My website: https://nobl.dev
