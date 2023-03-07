@@ -11,7 +11,6 @@
 <h1 style="border: none"> SOCIALS </h1>
 
 - <a href="https://www.instagram.com/nolanhovis/"><img src="https://img.shields.io/badge/instagram%20@nolanhovis-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/nolan.hovis"><img src="https://img.shields.io/badge/facebook%20@nolanhovis-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 - <a href="https://twitter.com/hovis_nolan"><img src="https://img.shields.io/badge/twitter%20@hovis_nolan-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 - <a href="https://nobl.dev/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20nobl.dev-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
