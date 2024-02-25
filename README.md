@@ -3,9 +3,6 @@
 
 <img align="right" src="./img/Astronaut.png" width="400" style="transform: rotate(-10deg);" />
 
-- 🔭 I’m currently working in Ruby on Rails and Angular
-- 😄 My website: https://nobl.dev
-
 <br>
 
 <h1 style="border: none"> TOOLS </h1>
